@@ -1,0 +1,13 @@
+库名	版本建议	功能说明	安装命令
+pandas	≥1.2.0	数据读取、数据统计、数据预处理、文件导出	pip install pandas
+numpy	≥1.19.0	数值计算、缩尾处理逻辑实现	pip install numpy
+matplotlib	≥3.4.0	基础绘图、图表渲染	pip install matplotlib
+seaborn	≥0.11.0	美化绘图、箱线图 / 直方图绘制	pip install seaborn
+openpyxl	≥3.0.0	Excel 文件读写引擎（to_excel 必备）	pip install openpyxl                                    安装命令
+pandas          >=1.2.0      数据读取、数据统计、数据预处理、文件导出         pip install pandas
+numpy           >=1.19.0     数值计算、矩阵及多维数组处理                     pip install numpy
+shap            >=0.41.0     SHAP归因分析、机器学习模型可解释性可视化         pip install shap
+xgboost         >=1.5.0      XGBoost分类器模型构建与训练                      pip install xgboost
+scikit-learn    >=1.0.0      模型评估指标计算（准确率、ROC曲线、混淆矩阵等）   pip install scikit-learn
+matplotlib      >=3.4.0      基础绘图、特征重要性与评估图表渲染               pip install matplotlib
+seaborn         >=0.11.0     高级数据可视化、混淆矩阵与热力图美化             pip install seaborn

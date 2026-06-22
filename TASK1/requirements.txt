@@ -1,0 +1,6 @@
+库名          版本建议    功能说明                                    安装命令
+fitz          >=0.0.1     PDF文件处理、文本与元数据提取               pip install PyMuPDF
+json          自带        JSON数据格式解析与序列化                    无需安装
+re            自带        正则表达式匹配与字符串处理                  无需安装
+getpass       自带        安全交互式密码与密钥输入                    无需安装
+openai        >=1.0.0     OpenAI API接口调用与大模型交互              pip install openai
