@@ -1,2 +1,5 @@
 # wangnannan
 医疗大模型研究组——新人中期模型挑战
+本作业主要使用模型：ChatGPT5.4和Gemini
+在AI_Chat_Records文件夹中，分三个md文档分别作为TASK1,TASK2,TASK3记录交互记录，task1，task2大部分直接粘贴ai对话，task3粘贴对话链接，每个文档均对对话主要内容做了分级处理，可见md文档的框架部分，在task2部分debug工作由豆包完成，由于过于零散没有放入文件中
+在任务二中的参考文献均由ai生成，由于时间原因未作核查
